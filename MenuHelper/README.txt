@@ -1,0 +1,1 @@
+A work in progess. A GUI Project where people enter in the menu they want and it generates a grocery list. Useful during emergencies when you have to stock up for multiple weeks.
